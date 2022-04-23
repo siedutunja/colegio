@@ -1,0 +1,2 @@
+# colegio
+Módulo para colegios
