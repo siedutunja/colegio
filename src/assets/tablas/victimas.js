@@ -1,0 +1,25 @@
+const victimas = [
+  {"id":"0","victima":"No aplica"},
+  {"id":"1","victima":"En situación de desplazamiento"},
+  {"id":"2","victima":"Desvinculados de grupos armados"},
+  {"id":"3","victima":"Hijos de adultos desmovilizados"},
+  {"id":"4","victima":"Victimas de minas"},
+  {"id":"5","victima":"Responsabilidad penal"},
+  {"id":"6","victima":"Acto terrorista /Atentados/ Combates/ Enfrentamientos / Hostigamientos"},
+  {"id":"7","victima":"Amenaza"},
+  {"id":"8","victima":"Delitos contra la libertad e integridad sexual en el marco del conflicto armado"},
+  {"id":"9","victima":"Desaparicion Forzada"},
+  {"id":"10","victima":"Desplazamiento Forzado"},
+  {"id":"11","victima":"Homicidio"},
+  {"id":"12","victima":"Secuestro"},
+  {"id":"13","victima":"Tortura"},
+  {"id":"14","victima":"Vinculacion de niños niñas adolescentes a Actividades relacionadas con grupos armados"},
+  {"id":"15","victima":"Abandono o despojo de tierras"},
+  {"id":"16","victima":"Perdida de bienes muebles o inmuebles"},
+  {"id":"17","victima":"Otros"},
+  {"id":"18","victima":"Sin información"},
+  {"id":"19","victima":"Confinamiento"},
+  {"id":"20","victima":"Lesiones personales físicas"},
+  {"id":"21","victima":"Lesiones personales Psicológicas"}
+]
+export default victimas
